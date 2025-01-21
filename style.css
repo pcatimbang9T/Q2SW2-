@@ -1,0 +1,14 @@
+body {
+	background-color: #918B76;
+	color: #FFFFFF;
+	font-family: times new roman;
+}
+.container {
+	background-color: #ACA885;
+	padding: 15px;
+	border-radius: 15px;
+}
+
+.container2 {
+	padding: 15px;
+}
